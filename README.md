@@ -1,6 +1,6 @@
 # Numba
 
-## Introduction for Numba (CUDA)
+## Introduction to Numba (CUDA)
 
 Welcome to this notebook about Numba !!
 
