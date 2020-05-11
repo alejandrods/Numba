@@ -2,6 +2,10 @@
 
 ## Introduction to Numba (CUDA)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pJwkWmgEnCX703Kb2ZCQ-9DWbl07TGFx?usp=sharing)
+
+Full article in [Medium](https://towardsdatascience.com/numba-weapon-of-mass-optimization-43cdeb76c7da)
+
 Welcome to this notebook about Numba !!
 
 Numba is a Python compiler, specifically for numerical functions and allows you to accelerate your applications with high performance functions written directly in Python.
